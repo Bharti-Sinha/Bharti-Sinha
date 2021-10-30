@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharti-Sinha&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=radical" />
 </a>
 <a href="https://github.com/Bharti-Sinha/Bharti-Sinha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bharti-Sinha&show_icons=true&line_height=27&count_private=true&icon_color=2bbc8a&bg_color=1d1f21&theme=radical" alt="Bharti's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bharti-Sinha&show_icons=true&line_height=27&count_private=true&icon_color=2bbc8a&theme=radical" alt="Bharti's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Bharti-Sinha/python-connect-databases">
