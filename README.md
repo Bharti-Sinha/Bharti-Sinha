@@ -16,5 +16,21 @@ Here are some ideas to get you started:
 -->
 
 
-![Bharti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharti-Sinha&count_private=true&show_icons=true&theme=radical)
+<!-- ![Bharti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharti-Sinha&count_private=true&show_icons=true&theme=radical) -->
+
+<a href="https://github.com/Bharti-Sinha/Bharti-Sinha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharti-Sinha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Bharti-Sinha/Bharti-Sinha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bharti-Sinha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bharti Sinha's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Bharti-Sinha/python-connect-databases">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bharti-Sinha&repo=python-connect-databases&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<!-- <a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>     -->
 
